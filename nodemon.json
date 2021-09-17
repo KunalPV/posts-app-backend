@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "kunal",
+    "DB_PASSWORD": "kunal.pv",
+    "DB_NAME": "posts"
+  }
+}
